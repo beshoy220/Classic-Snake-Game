@@ -1,5 +1,8 @@
 
 <body styly="margin: 0; padding: 0; display: flex; justify-content: space-between;">
+    <h2>Snake.io (classic snake game)</h2>
+    <p>A simple classical snake game like old snake game on old phones. The game is simple reliable and smooth. Made for fun and testing some ui and architecture utilities</p>
+    <h3>Those are some screenshots</h3>
     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
         <img src="https://github.com/user-attachments/assets/35b7bf25-6b52-4ff4-914c-b98600df8237" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
         <img src="https://github.com/user-attachments/assets/783b3f18-3bb4-4ec4-afb8-aa5e65ab9ee3" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
