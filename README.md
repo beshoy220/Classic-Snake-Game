@@ -13,7 +13,6 @@
      <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
         <img src="https://github.com/user-attachments/assets/25e5536f-9899-497c-b8f0-9ee8ee63db56" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
         <img src="https://github.com/user-attachments/assets/cc1c09d8-d0a8-4b04-895a-83902e8dd0d8" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
-        <img src="https://via.placeholder.com/300" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
      </div>
 </body>
 
